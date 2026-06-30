@@ -22,7 +22,14 @@
     "terminal",
     "colored-logs",
     "pretty-logs",
-    "nishidhx"
+    "nishidhx",
+    "timestamps",
+    "file-logger",
+    "log-levels",
+    "structured-logging",
+    "formatter",
+    "transport",
+    "logging-library"
   ],
   "files": [
     "dist",
