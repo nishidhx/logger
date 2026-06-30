@@ -3,7 +3,26 @@
   "version": "1.0.3",
   "description": "A logger tool that makes the tracking easy for developers",
   "keywords": [
-    "aurenith"
+    "logger",
+    "logging",
+    "typescript",
+    "javascript",
+    "nodejs",
+    "node",
+    "console",
+    "debug",
+    "debugging",
+    "error",
+    "warning",
+    "info",
+    "log",
+    "developer-tools",
+    "cli",
+    "utility",
+    "terminal",
+    "colored-logs",
+    "pretty-logs",
+    "nishidhx"
   ],
   "files": [
     "dist",
