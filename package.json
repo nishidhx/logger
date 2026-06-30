@@ -1,0 +1,34 @@
+{
+  "name": "@aurenith/logger",
+  "version": "1.0.0",
+  "description": "A logger tool that makes the tracking easy for developers",
+  "keywords": [
+    "aurenith"
+  ],
+  "files": [
+    "dist",
+    "README",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/nishidhx/logger#readme",
+  "bugs": {
+    "url": "https://github.com/nishidhx/logger/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishidhx/logger.git"
+  },
+  "license": "MIT",
+  "author": "xnishidh",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx tsc -b"
+  },
+  "dependencies": {
+    "typescript": "^6.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.1"
+  }
+}
