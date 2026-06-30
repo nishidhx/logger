@@ -1,6 +1,6 @@
 {
-  "name": "@aurenith/logger",
-  "version": "1.0.0",
+  "name": "@nishidhx/logger",
+  "version": "1.0.1",
   "description": "A logger tool that makes the tracking easy for developers",
   "keywords": [
     "aurenith"
